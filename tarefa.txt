@@ -9,9 +9,9 @@ Estruture seu site usando tags semânticas: utilize <header> para o cabeçalho,
 - Criar: main para o conteúdo principal-ok
 - Dentro do main, criar duas sections, cada uma contendo um article com uma notícia fictícia-ok
 - Cada article deve ter um título (h2), um parágrafo (p) com o conteúdo da notícia e uma data (time)-ok
-- Criar: footer com informações de contato, endereço e links fictícios para redes sociais-quase acabando
+- Criar: footer com informações de contato, endereço e links fictícios para redes sociais-quase acabando-ok
 
-Em alguma das notícias, inclua um vídeo usando a tag <iframe>;
+Em alguma das notícias, inclua um vídeo usando a tag <iframe>;-ok
 
 Por fim, estilize seu site com o CSS, aplicando cores de fundo e das letras, tipos e tamanhos de fontes.
 
