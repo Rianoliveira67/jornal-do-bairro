@@ -1,7 +1,31 @@
-#nomeDoSite{
-color: crimson;
-font-size: 60px; 
-text-align: center;}
-.titulo{ color: #1C1C1C;}
-body{background-color: #778899	;}
-p{font-size: 20px;}
+#nomeDoSite {
+  color: lime;
+  font-size: 60px;
+  text-align: center;
+}
+.titulo {
+  color: #1c1c1c;
+  text-transform: uppercase;
+}
+body {
+  background-color: #778899;
+}
+p {
+  font-size: 20px;
+}
+article {
+  width: 400px;
+  border : 1px solid #fff;
+  border-radius: 6px;
+  padding-inline: 8px;
+  padding-bottom: 8px;
+  background-color: #fff;
+}
+main{
+    display: flex;
+    gap: 16px;
+}
+ a{
+    color: lime;
+    font-size: 25px;
+}

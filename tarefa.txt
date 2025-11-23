@@ -13,6 +13,6 @@ Estruture seu site usando tags semânticas: utilize <header> para o cabeçalho,
 
 Em alguma das notícias, inclua um vídeo usando a tag <iframe>;-ok
 
-Por fim, estilize seu site com o CSS, aplicando cores de fundo e das letras, tipos e tamanhos de fontes.
+Por fim, estilize seu site com o CSS, aplicando cores de fundo e das letras, tipos e tamanhos de fontes.-ok
 
 
